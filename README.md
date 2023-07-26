@@ -22,4 +22,4 @@
 </p>
 
 ## 💻 Roadmap 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c0f6dffcdcf9c5d50e0b87?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c0f6dffcdcf9c5d50e0b87?variant=dark&roadmaps=python%2Cdocker%2Csoftware-architect)](https://roadmap.sh)
