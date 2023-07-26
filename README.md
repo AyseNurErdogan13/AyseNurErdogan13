@@ -20,3 +20,5 @@
   
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseNurErdogan13&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c0f6dffcdcf9c5d50e0b87?variant=dark)](https://roadmap.sh)
