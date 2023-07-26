@@ -1,4 +1,4 @@
-### Hello 👋
+### 👩🏼‍💻 Hello 👋
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineer+;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
@@ -21,4 +21,5 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseNurErdogan13&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
+## 💻 Roadmap 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c0f6dffcdcf9c5d50e0b87?variant=dark)](https://roadmap.sh)
